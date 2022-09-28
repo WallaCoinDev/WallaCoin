@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Wallacoin
+Comment= WALLA P2P Cryptocurrency
+Comment[fr]= WALLA, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= WALLA, eşten eşe kriptografik sanal para birimi
+Exec=wallacoin-qt %u
+Terminal=false
+Type=Application
+Icon=wallacoin128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=Wallacoin-qt
